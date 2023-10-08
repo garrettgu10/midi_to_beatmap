@@ -1,0 +1,1764 @@
+{
+    "events": [
+        {
+            "type": "recolor-background",
+            "time": 1.2,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 1.5999999999999999,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 1.9999999999999998,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 2.4,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 2.8,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 3.1999999999999997,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 3.5999999999999996,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 3.9999999999999996,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 4.4,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 4.800000000000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 5.200000000000001,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 5.600000000000001,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 6.000000000000002,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 6.400000000000002,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 6.8000000000000025,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 7.200000000000003,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 7.600000000000003,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 8.000000000000004,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 8.400000000000004,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 8.800000000000004,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 9.200000000000005,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 9.600000000000005,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 10.000000000000005,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 10.400000000000006,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 10.800000000000006,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 11.200000000000006,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 11.600000000000007,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 12.000000000000007,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 12.400000000000007,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 12.800000000000008,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 13.200000000000008,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 13.600000000000009,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 14.000000000000009,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 14.40000000000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 14.80000000000001,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 15.20000000000001,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 15.60000000000001,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 16.00000000000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 16.400000000000013,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 16.800000000000015,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 17.200000000000017,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 17.60000000000002,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 18.00000000000002,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 18.400000000000023,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 18.800000000000026,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 19.200000000000028,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 19.60000000000003,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 20.000000000000032,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 20.400000000000034,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 20.800000000000036,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 21.20000000000004,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 21.60000000000004,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 22.000000000000043,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 22.400000000000045,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 22.800000000000047,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 23.20000000000005,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 23.60000000000005,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 24.000000000000053,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 24.400000000000055,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 24.800000000000058,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 25.20000000000006,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 25.600000000000062,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 26.000000000000064,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 26.400000000000066,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 26.800000000000068,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 27.20000000000007,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 27.600000000000072,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 28.000000000000075,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 28.400000000000077,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 28.80000000000008,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 29.20000000000008,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 29.600000000000083,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 30.000000000000085,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 30.400000000000087,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 30.80000000000009,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 31.20000000000009,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 31.600000000000094,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 32.00000000000009,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 32.40000000000009,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 32.80000000000009,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 33.20000000000009,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 33.60000000000009,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 34.000000000000085,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 34.400000000000084,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 34.80000000000008,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 35.20000000000008,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 35.60000000000008,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 36.00000000000008,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 36.40000000000008,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 36.800000000000075,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 37.200000000000074,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 37.60000000000007,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 38.00000000000007,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 38.40000000000007,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 38.80000000000007,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 39.20000000000007,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 39.600000000000065,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 40.02857100000006,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 40.42857100000006,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 40.82857100000006,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 41.22857100000006,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 41.65714200000006,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 42.057142000000056,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 42.457142000000054,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 42.85714200000005,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 43.28571300000005,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 43.68571300000005,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 44.08571300000005,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 44.48571300000005,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 44.914284000000045,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 45.31428400000004,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 45.71428400000004,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 46.11428400000004,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 46.54285500000004,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 46.94285500000004,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 47.342855000000036,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 47.742855000000034,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 48.17142600000003,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 48.57142600000003,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 48.97142600000003,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 49.37142600000003,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 49.799997000000026,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 50.199997000000025,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 50.59999700000002,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 50.99999700000002,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 51.42856800000002,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 51.82856800000002,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 52.22856800000002,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 52.628568000000016,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 53.057139000000014,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 53.45713900000001,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 53.85713900000001,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 54.25713900000001,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 54.68571000000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 55.085710000000006,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 55.485710000000005,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 55.88571,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 56.314281,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 56.714281,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 57.114281,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 57.514281,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 57.942851999999995,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 58.34285199999999,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 58.74285199999999,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 59.14285199999999,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 59.57142299999999,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 59.97142299999999,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 60.371422999999986,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 60.771422999999984,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 61.19999399999998,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 61.59999399999998,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 61.99999399999998,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 62.39999399999998,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 62.828564999999976,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 63.228564999999975,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 63.62856499999997,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 64.02856499999997,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 64.45713599999996,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 64.85713599999997,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 65.25713599999997,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 65.65713599999998,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 66.08570699999997,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 66.48570699999998,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 66.88570699999998,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 67.28570699999999,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 67.71427799999998,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 68.11427799999998,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 68.51427799999999,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 68.914278,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 69.34284899999999,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 69.74284899999999,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 70.142849,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 70.542849,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 70.97142,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 71.37142,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 71.77142,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 72.17142000000001,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 72.599991,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 72.99999100000001,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 73.39999100000001,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 73.79999100000002,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 74.22856200000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 74.62856200000002,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 75.02856200000002,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 75.42856200000003,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 75.85713300000002,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 76.25713300000002,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 76.65713300000003,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 77.05713300000004,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 77.48570400000003,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 77.88570400000003,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 78.28570400000004,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 78.68570400000004,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 79.11427500000003,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 79.51427500000004,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 79.91427500000005,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 80.31427500000005,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 80.74284600000004,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 81.14284600000005,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 81.54284600000005,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 81.94284600000006,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 82.37141700000005,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 82.77141700000006,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 83.17141700000006,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 83.57141700000007,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 83.99998800000006,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 84.39998800000006,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 84.79998800000007,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 85.19998800000008,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 85.62855900000007,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 86.02855900000007,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 86.42855900000008,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 86.82855900000008,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 87.25713000000007,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 87.65713000000008,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 88.05713000000009,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 88.45713000000009,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 88.88570100000008,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 89.28570100000009,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 89.6857010000001,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 90.0857010000001,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 90.51427200000009,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 90.9142720000001,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 91.3142720000001,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 91.71427200000011,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 92.1428430000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 92.5428430000001,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 92.94284300000011,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 93.34284300000012,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 93.7714140000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 94.17141400000011,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 94.57141400000012,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 94.97141400000012,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 95.39998500000011,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 95.79998500000012,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 96.19998500000013,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 96.59998500000013,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 97.02855600000012,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 97.42855600000013,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 97.82855600000013,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 98.22855600000014,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 98.65712700000013,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 99.05712700000014,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 99.45712700000014,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 99.85712700000015,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 100.28569800000014,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 100.68569800000014,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 101.08569800000015,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 101.48569800000016,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 101.91426900000015,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 102.31426900000015,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 102.71426900000016,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 103.11426900000016,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 103.54284000000015,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 103.94284000000016,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 104.34284000000017,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 104.74284000000017,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 105.17141100000016,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 105.57141100000017,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 105.97141100000017,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 106.37141100000018,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 106.79998200000017,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 107.19998200000018,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 107.59998200000018,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 107.99998200000019,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 108.42855300000018,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 108.82855300000018,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 109.22855300000019,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 109.6285530000002,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 110.05712400000019,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 110.45712400000019,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 110.8571240000002,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 111.2571240000002,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 111.6856950000002,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 112.0856950000002,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 112.4856950000002,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 112.88569500000021,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 113.3142660000002,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 113.71426600000021,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 114.11426600000021,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 114.51426600000022,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 114.94283700000021,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 115.34283700000022,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 115.74283700000022,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 116.14283700000023,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 116.57140800000022,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 116.97140800000022,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 117.37140800000023,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 117.77140800000024,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 118.19997900000023,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 118.59997900000023,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 118.99997900000024,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 119.39997900000024,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 119.82855000000023,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 120.22855000000024,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 120.62855000000025,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 121.02855000000025,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 121.45712100000024,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 121.85712100000025,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 122.25712100000025,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 122.65712100000026,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 123.08569200000025,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 123.48569200000026,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 123.88569200000026,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 124.28569200000027,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 124.71426300000026,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 125.11426300000026,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 125.51426300000027,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 125.91426300000028,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 126.34283400000027,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 126.74283400000027,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 127.14283400000028,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 127.54283400000028,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 127.97140500000027,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 128.37140500000027,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 128.77140500000024,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 129.17140500000022,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 129.59997600000023,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 129.9999760000002,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 130.39997600000018,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 130.79997600000016,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 131.22854700000016,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 131.62854700000014,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 132.02854700000012,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 132.4285470000001,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 132.8571180000001,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 133.25711800000008,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 133.65711800000005,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 134.05711800000003,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 134.48568900000004,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 134.885689,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 135.285689,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 135.68568899999997,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 136.11425999999997,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 136.51425999999995,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 136.91425999999993,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 137.3142599999999,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 137.7428309999999,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 138.1428309999999,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 138.54283099999986,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 138.94283099999984,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 139.37140199999985,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 139.77140199999982,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 140.1714019999998,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 140.57140199999978,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 140.99997299999978,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 141.4285439999998,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 141.8571149999998,
+            "color": "#D4FF47"
+        },
+        {
+            "type": "recolor-background",
+            "time": 142.2856859999998,
+            "color": "#0FC0FC"
+        },
+        {
+            "type": "recolor-background",
+            "time": 142.7142569999998,
+            "color": "#7B1DAF"
+        },
+        {
+            "type": "recolor-background",
+            "time": 143.1428279999998,
+            "color": "#FF2FB9"
+        },
+        {
+            "type": "recolor-background",
+            "time": 143.57139899999981,
+            "color": "#D4FF47"
+        }
+    ]
+}

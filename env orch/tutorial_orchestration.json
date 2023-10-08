@@ -1,0 +1,99 @@
+{
+    "events":[
+        {
+            "time": 0,
+            "type": "skippable-cutscene",
+            "duration": 25.2
+        },
+        {
+            "time": 0,
+            "type": "image",
+            "image": "1stscene"
+        },
+        {
+            "time": 7.2,
+            "type": "image",
+            "image": "2ndscene"
+        },
+        {
+            "time": 12.6,
+            "type": "image",
+            "image": "3rdscene"
+        },
+        {
+            "time": 14.4,
+            "type": "image",
+            "image": "4thscene"
+        },
+        {
+            "time": 18.0,
+            "type": "image",
+            "image": "5thscene"
+        },
+        {
+            "time": 21.6,
+            "type": "image",
+            "image": "6thscene"
+        },
+        {
+            "time": 25.2,
+            "type": "image-fadeout",
+            "duration": 3
+        },
+        {
+            "time": 28.8,
+            "type": "tooltip",
+            "text": "Use your mouse or MIDI controller knob to aim your weapon."
+        },
+        {
+            "time": 33.6,
+            "type": "tooltip",
+            "text": "Use your mouse, keyboard X/C, or MIDI drum pads to fire your weapon."
+        },
+        {
+            "time": 38.4,
+            "type": "tooltip-fadeout",
+            "duration": 0.5
+        },
+        {
+            "time": 48,
+            "type": "tooltip",
+            "text": "Shoot zombies near the edge of the spotlight to maximize damage."
+        },
+        {
+            "time": 57.6,
+            "type": "tooltip",
+            "text": "Feel the rhythm and survive the horde! Get ready..."
+        },
+        {
+            "time": 67.2,
+            "type": "tooltip-fadeout",
+            "duration": 0.5
+        },
+        {
+            "time": 105.6,
+            "type": "tooltip",
+            "text": "Now let's switch up the rhythm a little..."
+        },
+        {
+            "time": 115.2,
+            "type": "tooltip-fadeout",
+            "duration": 1.0
+        },
+        {
+            "time": 145,
+            "type": "tooltip",
+            "text": "Congrats! You're ready to take on the world..."
+        },
+        {
+            "time": 149,
+            "type": "tooltip",
+            "text": "Show those zombies what you got!"
+        },
+        {
+            "time": 153,
+            "type": "tooltip-fadeout",
+            "duration": 1.0
+        }
+    ]
+}
